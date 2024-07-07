@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Ali Takrimi 
 
 ✨ As an IT professional with a college education in the field, I've developed a strong foundation in programming and related technologies. However, my interests have led me towards the fascinating world of data. I'm eager to gain knowledge and experience in a range of topics, including databases, big data, data warehousing, business intelligence, data mining, machine learning and deep learning 💪. With my existing skills and enthusiasm for continuous learning, I'm excited to take on new challenges and explore the cutting-edge possibilities of this rapidly-evolving field 👊🎯.
 
